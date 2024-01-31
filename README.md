@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DodG213
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Csharp
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
